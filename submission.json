@@ -1,0 +1,11 @@
+{
+  "set": "DOCKER-SET-2",
+  "student_name": "FILL_STUDENT_NAME",
+  "roll_number": "FILL_ROLL_NUMBER",
+  "section": "FILL_SECTION",
+  "branch": "FILL_BRANCH",
+  "github_username": "UpwanSingh",
+  "dockerhub_username": "FILL_DOCKERHUB_USERNAME",
+  "frontend_image": "FILL_DOCKERHUB_USERNAME/frontend:latest",
+  "backend_image": "FILL_DOCKERHUB_USERNAME/backend:latest"
+}
